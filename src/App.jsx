@@ -3,15 +3,15 @@ import './App.css'
 import SingleCard from './components/SingleCard'
 
 const cardImages = [
-  { "src": "./assets/img/a.jpg", matched: false },
-  { "src": "./assets/img/a2.jpg", matched: false },
-  { "src": "./assets/img/a3.jpg", matched: false },
-  { "src": "./assets/img/a4.jpg", matched: false },
-  { "src": "./assets/img/joker.jpg", matched: false },
-  { "src": "./assets/img/joker2.jpg", matched: false },
-  { "src": "./assets/img/joker3.jpg", matched: false },
-  { "src": "./assets/img/korol3.jpg", matched: false },
-  { "src": "./assets/img/valet3.jpg", matched: false }
+  { "src": "/img/a.jpg", matched: false },
+  { "src": "/img/a2.jpg", matched: false },
+  { "src": "/img/a3.jpg", matched: false },
+  { "src": "/img/a4.jpg", matched: false },
+  { "src": "/img/joker.jpg", matched: false },
+  { "src": "/img/joker2.jpg", matched: false },
+  { "src": "/img/joker3.jpg", matched: false },
+  { "src": "/img/korol3.jpg", matched: false },
+  { "src": "/img/valet3.jpg", matched: false }
 ]
 
 function App() {
