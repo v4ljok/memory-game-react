@@ -10,7 +10,7 @@ const cardImages = [
   { "src": "/img/joker.jpg", matched: false },
   { "src": "/img/joker2.jpg", matched: false },
   { "src": "/img/joker3.jpg", matched: false },
-  { "src": "/img/korol3.jpg", matched: false },
+  { "src": "/img/korol.jpg", matched: false },
   { "src": "/img/valet3.jpg", matched: false }
 ]
 
