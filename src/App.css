@@ -13,7 +13,7 @@ button {
     font-size: 1em;
 }
     button:hover {
-    background: white;
+    background: hsla(0, 0%, 100%, 0.4);
     color: black;
 }
 
